@@ -1,4 +1,4 @@
-AROS_BUILD_TYPE ?= UNOFFICIAL
+AROS_BUILD_TYPE ?= COMMUNITY
 
 CUSTOM_DATE_YEAR := $(shell date -u +%Y)
 CUSTOM_DATE_MONTH := $(shell date -u +%m)
